@@ -18,7 +18,6 @@ const Navbar = () => {
       <div className="flex items-center">
         <div onClick={() => setNav(!nav)} className="cursor-pointer">
           <AiOutlineMenu size={30} />
-
         </div>
         <h1 className="text-2xl sm:text-3xl lg:text-4xl px-2">
           <span className="font-bold text-green-500">M</span>

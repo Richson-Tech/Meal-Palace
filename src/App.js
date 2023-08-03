@@ -6,11 +6,11 @@ import Category from "./components/Category";
 function App() {
   return (
     <div>
-     <Navbar/>
-     <Hero/>
-     <HeadlineCards/>
-     <Food/>
-     <Category/>
+      <Navbar />
+      <Hero />
+      <HeadlineCards />
+      <Food />
+      <Category />
     </div>
   );
 }
